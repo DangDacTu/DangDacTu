@@ -17,9 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:dagdtu.forwork@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
+
 <a href="https://linkedin.com/in/dangdactu" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dangdactu" height="30" width="40" />
 </a>
