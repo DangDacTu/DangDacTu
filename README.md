@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
-
 - 📫 How to reach me **dagdtu.forwork@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
