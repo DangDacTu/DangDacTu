@@ -3,10 +3,6 @@
 <img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR6ZWpqYW0xYWpyMGE0cTQxcHdnc201aTE4aW5qZzBiNjV4MDBkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"> 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
-
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **dagdtu.forwork@gmail.com**
