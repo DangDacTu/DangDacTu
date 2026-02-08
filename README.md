@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhnbnV6OHIza3Fpd2k4NWFnbnJkbXRrM3c4ZmtzeXFsOG9lOXdieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"> 
 
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps,CLOUD**
 
 - 📫 How to reach me **dagdtu.forwork@gmail.com**
 
