@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DevOps,CLOUD**
 
-- 📫 How to reach me **dagdtu.forwork@gmail.com**
+- 📫 How to reach me **dagdtusgmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
